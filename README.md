@@ -1,43 +1,8 @@
-# Coding Garden Live!
+# Snake Game!
 
-* Let's build an app!
-* Visit the poll here: **redacted**
-* We will vote soon!
+Live View [here](https://snake-game-opal-two.vercel.app/)
 
-## Game
-
-We will choose one:
-
-* [x] Snake
-* Minesweeper
-* Tic Tac Toe
-
-## Tech
-
-We will choose one:
-
-* [x] React.js
-* Vanilla JS
-* Vue.js
-
-## Browser API
-
-We will choose one:
-
-* [x] Shape Detection
-* Speech Recognition
-* Speech Synthesis
-* Webcam
-* Gamepad
-
-## Constrains
-
-We will choose one:
-
-* [x] Can only run the app once at the end
-* No Variables
-* Functions can be no longer than 2 lines
-* No dev tools
+## React Js
 
 ## Plan
 
